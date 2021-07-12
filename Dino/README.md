@@ -1,6 +1,6 @@
 # Info
 
-Go to this url [``chrome://dino``](chrome://dino)
+Go to this url [chrome://dino](chrome://dino)
 
 # Coding
 
