@@ -12,7 +12,7 @@ And then right click and select ``Inspect`` or Hit ``Ctrl + Shift + I`` on Windo
 Go to the console by ``selecting console in the top nav bar``
 
 
-Enter the code **Which was in Fun.js file** (``Just copy the code in Fun.js file and paste it in the console.``)
+Enter the code **Which was in Fun.js file** (**Just copy the code in ``Fun.js`` file and paste it in the console**)
 
 # Enjoy
 
