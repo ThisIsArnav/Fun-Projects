@@ -1,6 +1,8 @@
 # Info
 
-Go to this url [chrome://dino](chrome://dino)
+Go to this url ``chrome://dino``
+
+Or when u get **No Internet** page u can do the same.
 
 # Coding
 
