@@ -1,3 +1,9 @@
+# Prerequreties
+
+You need Chrome web browser for it.
+
+Dont have chrome?[Get here](http://chrome.com)
+
 # Info
 
 Go to this url ``chrome://dino``
